@@ -66,6 +66,7 @@
             <artifactId>spring-cloud-alibaba-fescar</artifactId>
             <version>${spring.cloud.alibaba.version}</version>
         </dependency>
+
     </dependencies>
 
     <build>
