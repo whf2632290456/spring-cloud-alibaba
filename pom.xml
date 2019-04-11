@@ -25,12 +25,9 @@
              <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>repo</distribution>
         </license>
-
-
     </licenses>
 
     <scm>
-
         <url>https://github.com/spring-cloud-incubator/spring-cloud-alibaba</url>
         <connection>
             scm:git:git://github.com/spring-cloud-incubator/spring-cloud-alibaba.git
@@ -42,6 +39,10 @@
     </scm>
 
     <developers>
+        <developer>
+            <name>xiaofei</name>
+            <email>xiaofei32@163.com</email>
+        </developer>
         <developer>
             <name>xiaojing</name>
             <email>flystar32@163.com</email>
