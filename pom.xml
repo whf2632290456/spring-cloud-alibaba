@@ -28,6 +28,7 @@
     </licenses>
 
     <scm>
+
         <url>https://github.com/spring-cloud-incubator/spring-cloud-alibaba</url>
         <connection>
             scm:git:git://github.com/spring-cloud-incubator/spring-cloud-alibaba.git
