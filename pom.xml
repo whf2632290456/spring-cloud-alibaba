@@ -36,6 +36,8 @@
             scm:git:ssh://git@github.com/spring-cloud-incubator/spring-cloud-alibaba.git
         </developerConnection>
         <tag>HEAD</tag>
+
+
     </scm>
 
     <developers>
